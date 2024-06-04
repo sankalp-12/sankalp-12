@@ -22,8 +22,8 @@
 ---
 
 ### :man_technologist: About Me 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
-- :telescope: I’m currently a Junior Year undergrad at IIT Bhilai, and I regularly contribute to backend applications.
+I'm a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
+- :telescope: I’m currently a Software Developer at [Pi42](https://pi42.com), and I regularly contribute to backend applications.
 
 - :seedling: Exploring Technical Content Writing.
 
