@@ -23,11 +23,11 @@
 
 ### :man_technologist: About Me 
 I'm a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
-- :telescope: I’m currently a Software Developer at [Pi42](https://pi42.com), and I regularly contribute to backend applications.
+- :telescope: I’m currently a Software Engineer at [Pi42](https://pi42.com), a crypto-derivatives excahnge platform.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Web3 and Game development.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and read/write tech articles.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp-12&hide_border=true&show_icons=true&theme=transparent)
 
