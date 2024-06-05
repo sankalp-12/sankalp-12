@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me 
 I'm a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
-- :telescope: I’m currently a Software Engineer at [Pi42](https://pi42.com), a crypto-derivatives excahnge platform.
+- :telescope: I’m currently a Software Engineer at [Pi42](https://pi42.com), a crypto-derivatives exchange platform.
 
 - :seedling: Exploring Web3 and Game development.
 
